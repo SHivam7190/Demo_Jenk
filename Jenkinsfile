@@ -28,7 +28,7 @@ pipeline {
     
         stage('All Good') {
             steps {
-                echo 'All Good World'
+                echo 'All Good'
             }
         }
     }
